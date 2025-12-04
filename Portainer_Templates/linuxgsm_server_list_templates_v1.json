@@ -1,0 +1,1292 @@
+{
+  "version": "2",
+  "templates": [
+    {
+      "type": 3,
+      "title": "LinuxGSM: AC Server",
+      "description": "Dockerized AC gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ac.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: AHL Server",
+      "description": "Dockerized AHL gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ahl.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: AHL2 Server",
+      "description": "Dockerized AHL2 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ahl2.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: ARK Server",
+      "description": "Dockerized ARK gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ark.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: ARMA3 Server",
+      "description": "Dockerized ARMA3 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-arma3.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: ARMAR Server",
+      "description": "Dockerized ARMAR gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-armar.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: ATS Server",
+      "description": "Dockerized ATS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ats.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: AV Server",
+      "description": "Dockerized AV gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-av.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: BB Server",
+      "description": "Dockerized BB gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-bb.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: BB2 Server",
+      "description": "Dockerized BB2 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-bb2.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: BD Server",
+      "description": "Dockerized BD gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-bd.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: BF1942 Server",
+      "description": "Dockerized BF1942 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-bf1942.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: BFV Server",
+      "description": "Dockerized BFV gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-bfv.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: BMDM Server",
+      "description": "Dockerized BMDM gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-bmdm.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: BO Server",
+      "description": "Dockerized BO gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-bo.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: BS Server",
+      "description": "Dockerized BS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-bs.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: BT Server",
+      "description": "Dockerized BT gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-bt.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: BTL Server",
+      "description": "Dockerized BTL gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-btl.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: CC Server",
+      "description": "Dockerized CC gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-cc.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: CD Server",
+      "description": "Dockerized CD gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-cd.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: CK Server",
+      "description": "Dockerized CK gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ck.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: CMW Server",
+      "description": "Dockerized CMW gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-cmw.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: COD Server",
+      "description": "Dockerized COD gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-cod.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: COD2 Server",
+      "description": "Dockerized COD2 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-cod2.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: COD4 Server",
+      "description": "Dockerized COD4 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-cod4.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: CODUO Server",
+      "description": "Dockerized CODUO gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-coduo.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: CODWAW Server",
+      "description": "Dockerized CODWAW gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-codwaw.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: COL Server",
+      "description": "Dockerized COL gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-col.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: CS Server",
+      "description": "Dockerized CS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-cs.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: CS2 Server",
+      "description": "Dockerized CS2 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-cs2.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: CSCZ Server",
+      "description": "Dockerized CSCZ gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-cscz.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: CSGO Server",
+      "description": "Dockerized CSGO gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-csgo.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: CSS Server",
+      "description": "Dockerized CSS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-css.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: CT Server",
+      "description": "Dockerized CT gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ct.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: DAB Server",
+      "description": "Dockerized DAB gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-dab.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: DAYZ Server",
+      "description": "Dockerized DAYZ gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-dayz.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: DMC Server",
+      "description": "Dockerized DMC gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-dmc.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: DOD Server",
+      "description": "Dockerized DOD gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-dod.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: DODR Server",
+      "description": "Dockerized DODR gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-dodr.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: DODS Server",
+      "description": "Dockerized DODS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-dods.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: DOI Server",
+      "description": "Dockerized DOI gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-doi.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: DST Server",
+      "description": "Dockerized DST gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-dst.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: DYS Server",
+      "description": "Dockerized DYS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-dys.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: ECO Server",
+      "description": "Dockerized ECO gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-eco.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: EM Server",
+      "description": "Dockerized EM gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-em.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: ETL Server",
+      "description": "Dockerized ETL gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-etl.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: ETS2 Server",
+      "description": "Dockerized ETS2 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ets2.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: FCTR Server",
+      "description": "Dockerized FCTR gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-fctr.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: FOF Server",
+      "description": "Dockerized FOF gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-fof.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: GMOD Server",
+      "description": "Dockerized GMOD gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-gmod.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: HCU Server",
+      "description": "Dockerized HCU gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-hcu.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: HL2DM Server",
+      "description": "Dockerized HL2DM gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-hl2dm.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: HLDM Server",
+      "description": "Dockerized HLDM gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-hldm.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: HLDMS Server",
+      "description": "Dockerized HLDMS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-hldms.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: HW Server",
+      "description": "Dockerized HW gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-hw.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: HZ Server",
+      "description": "Dockerized HZ gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-hz.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: INS Server",
+      "description": "Dockerized INS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ins.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: INSS Server",
+      "description": "Dockerized INSS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-inss.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: IOS Server",
+      "description": "Dockerized IOS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ios.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: JC2 Server",
+      "description": "Dockerized JC2 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-jc2.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: JC3 Server",
+      "description": "Dockerized JC3 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-jc3.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: JK2 Server",
+      "description": "Dockerized JK2 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-jk2.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: KF Server",
+      "description": "Dockerized KF gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-kf.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: KF2 Server",
+      "description": "Dockerized KF2 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-kf2.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: L4D Server",
+      "description": "Dockerized L4D gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-l4d.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: L4D2 Server",
+      "description": "Dockerized L4D2 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-l4d2.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: LO Server",
+      "description": "Dockerized LO gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-lo.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: MC Server",
+      "description": "Dockerized MC gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-mc.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: MCB Server",
+      "description": "Dockerized MCB gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-mcb.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: MH Server",
+      "description": "Dockerized MH gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-mh.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: MOHAA Server",
+      "description": "Dockerized MOHAA gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-mohaa.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: MOM Server",
+      "description": "Dockerized MOM gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-mom.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: MTA Server",
+      "description": "Dockerized MTA gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-mta.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: ND Server",
+      "description": "Dockerized ND gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-nd.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: NEC Server",
+      "description": "Dockerized NEC gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-nec.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: NMRIH Server",
+      "description": "Dockerized NMRIH gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-nmrih.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: NS Server",
+      "description": "Dockerized NS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ns.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: NS2 Server",
+      "description": "Dockerized NS2 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ns2.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: NS2C Server",
+      "description": "Dockerized NS2C gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ns2c.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: OHD Server",
+      "description": "Dockerized OHD gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ohd.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: ONSET Server",
+      "description": "Dockerized ONSET gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-onset.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: OPFOR Server",
+      "description": "Dockerized OPFOR gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-opfor.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: PC Server",
+      "description": "Dockerized PC gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-pc.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: PC2 Server",
+      "description": "Dockerized PC2 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-pc2.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: PMC Server",
+      "description": "Dockerized PMC gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-pmc.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: PS Server",
+      "description": "Dockerized PS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ps.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: PSTBS Server",
+      "description": "Dockerized PSTBS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-pstbs.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: PVKII Server",
+      "description": "Dockerized PVKII gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-pvkii.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: PVR Server",
+      "description": "Dockerized PVR gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-pvr.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: PW Server",
+      "description": "Dockerized PW gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-pw.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: PZ Server",
+      "description": "Dockerized PZ gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-pz.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: Q2 Server",
+      "description": "Dockerized Q2 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-q2.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: Q3 Server",
+      "description": "Dockerized Q3 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-q3.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: Q4 Server",
+      "description": "Dockerized Q4 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-q4.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: QL Server",
+      "description": "Dockerized QL gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ql.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: QW Server",
+      "description": "Dockerized QW gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-qw.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: RICOCHET Server",
+      "description": "Dockerized RICOCHET gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ricochet.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: RO Server",
+      "description": "Dockerized RO gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ro.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: RTCW Server",
+      "description": "Dockerized RTCW gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-rtcw.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: RUST Server",
+      "description": "Dockerized RUST gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-rust.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: RW Server",
+      "description": "Dockerized RW gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-rw.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: SAMP Server",
+      "description": "Dockerized SAMP gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-samp.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: SB Server",
+      "description": "Dockerized SB gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-sb.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: SBOTS Server",
+      "description": "Dockerized SBOTS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-sbots.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: SCPSL Server",
+      "description": "Dockerized SCPSL gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-scpsl.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: SCPSLSM Server",
+      "description": "Dockerized SCPSLSM gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-scpslsm.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: SDTD Server",
+      "description": "Dockerized SDTD gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-sdtd.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: SF Server",
+      "description": "Dockerized SF gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-sf.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: SFC Server",
+      "description": "Dockerized SFC gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-sfc.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: SHORTNAME Server",
+      "description": "Dockerized SHORTNAME gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-shortname.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: SM Server",
+      "description": "Dockerized SM gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-sm.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: SOF2 Server",
+      "description": "Dockerized SOF2 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-sof2.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: SOL Server",
+      "description": "Dockerized SOL gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-sol.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: SQUAD Server",
+      "description": "Dockerized SQUAD gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-squad.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: SQUAD44 Server",
+      "description": "Dockerized SQUAD44 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-squad44.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: ST Server",
+      "description": "Dockerized ST gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-st.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: STN Server",
+      "description": "Dockerized STN gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-stn.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: SVEN Server",
+      "description": "Dockerized SVEN gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-sven.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: TERRARIA Server",
+      "description": "Dockerized TERRARIA gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-terraria.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: TF Server",
+      "description": "Dockerized TF gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-tf.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: TF2 Server",
+      "description": "Dockerized TF2 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-tf2.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: TFC Server",
+      "description": "Dockerized TFC gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-tfc.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: TI Server",
+      "description": "Dockerized TI gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ti.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: TS Server",
+      "description": "Dockerized TS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ts.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: TS3 Server",
+      "description": "Dockerized TS3 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ts3.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: TU Server",
+      "description": "Dockerized TU gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-tu.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: TW Server",
+      "description": "Dockerized TW gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-tw.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: UNT Server",
+      "description": "Dockerized UNT gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-unt.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: UT Server",
+      "description": "Dockerized UT gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ut.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: UT2K4 Server",
+      "description": "Dockerized UT2K4 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ut2k4.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: UT3 Server",
+      "description": "Dockerized UT3 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ut3.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: UT99 Server",
+      "description": "Dockerized UT99 gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-ut99.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: VH Server",
+      "description": "Dockerized VH gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-vh.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: VINTS Server",
+      "description": "Dockerized VINTS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-vints.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: VPMC Server",
+      "description": "Dockerized VPMC gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-vpmc.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: VS Server",
+      "description": "Dockerized VS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-vs.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: WET Server",
+      "description": "Dockerized WET gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-wet.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: WF Server",
+      "description": "Dockerized WF gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-wf.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: WMC Server",
+      "description": "Dockerized WMC gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-wmc.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: WURM Server",
+      "description": "Dockerized WURM gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-wurm.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: XNT Server",
+      "description": "Dockerized XNT gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-xnt.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: ZMR Server",
+      "description": "Dockerized ZMR gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-zmr.yml"
+      }
+    },
+    {
+      "type": 3,
+      "title": "LinuxGSM: ZPS Server",
+      "description": "Dockerized ZPS gameserver",
+      "repository": {
+        "url": "https://github.com/GameServerManagers/docker-gameserver",
+        "stackfile": "docker-compose/docker-compose-zps.yml"
+      }
+    }
+  ]
+}
